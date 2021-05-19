@@ -47,7 +47,7 @@ validation_generator = test_datagen.flow_from_directory(
 # creating NN
 
 model = Sequential()
-model.add(Conv2D(32, (3,3), input_shape=input_shape))
+model.add(Conv2D(32, (3, 3), input_shape=input_shape))
 model.add(Activation('relu'))
 model.add(MaxPooling2D(pool_size=(2, 2)))
 
