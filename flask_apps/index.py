@@ -12,7 +12,6 @@ from keras.preprocessing import image
 # Flask utils
 from flask import Flask, redirect, url_for, request, render_template
 from werkzeug.utils import secure_filename
-#from gevent.pywsgi import WSGIServer
 
 
 img_width, img_height = 150, 150
@@ -40,7 +39,7 @@ model.add(Dense(1))
 model.add(Activation('sigmoid'))
 
 
-model.load_weights('C:/Users/mhdsa/PycharmProjects/pythonProject1/first_try.h5')
+model.load_weights('../acc=92.h5')
 
 
 app = Flask(__name__)
