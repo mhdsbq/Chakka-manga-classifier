@@ -39,7 +39,7 @@ model.add(Dense(1))
 model.add(Activation('sigmoid'))
 
 
-model.load_weights('../acc=92.h5')
+model.load_weights('./acc=92.h5')
 
 
 app = Flask(__name__)
