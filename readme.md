@@ -18,4 +18,4 @@ Flask==2.0.0
 ## How to configure
 Install tensorflow and flask .Then run
 ## How to Run
-either run index.py in flask-app directory or use heroku link : 'https://chakkamanga-testapp.herokuapp.com/'
+either run index.py in flask-app directory or use heroku link : 'https://naadan-chakka-manga-classifer.herokuapp.com/'
