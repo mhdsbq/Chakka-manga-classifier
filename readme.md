@@ -3,7 +3,7 @@
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. Muhammed Sabique [https://github.com/mhdsbq]
-2. Joseph Fransis Pillissery [https://github.com/josephfrancis-07]
+2. Joseph Francis Pellissery [https://github.com/josephfrancis-07]
 3. Gowri Shankar [https://github.com/gowrisankar21]
 ## Team Id: 
 BFH/recqot8r41lhNf3gE/2021
