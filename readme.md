@@ -10,8 +10,9 @@ BFH/recqot8r41lhNf3gE/2021
 ## Link to product walkthrough
 [https://drive.google.com/file/d/1B0GNIm49qJJ8xptnc1NrttumwyBc22Qd/view?usp=sharing]
 ## How it Works ?
-1. Train a model with collected data
-2. Get image using flask app and predict this image using trained model
+1. Collect the data
+2. Train a model with collected data
+3. Get image using flask app and predict this image using trained model
 ## Libraries used
 tensorflow-cpu==2.5.0
 Flask==2.0.0
